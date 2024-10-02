@@ -1,0 +1,13 @@
+main.ipynb
+.idea/
+.ipynb_checkpoints/
+pic/
+datasets/
+data/fer2013/
+data/jaffe/
+*.pptx
+**/*.Identifier
+**/*.npy
+**/*.pt
+**/*.joblib
+togetherai-zhu-personal.txt
